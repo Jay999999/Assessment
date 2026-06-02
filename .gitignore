@@ -1,1 +1,18 @@
 
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven build folder
+target/
+
+# Compiled Java classes
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TestNG output
+test-output/
