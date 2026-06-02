@@ -1,6 +1,10 @@
-# Assessment
+# Cart Automation – Sauce Demo
 
----
+## Overview
+Selenium TestNG automation project to verify that a product added 
+to the cart on [Sauce Demo](https://sauce-demo.myshopify.com/) 
+displays the correct product name in the cart page.
+
 
 ## Tech Stack
 | Tool | Version |
@@ -25,7 +29,7 @@
 ### Steps
 1. **Clone the repository**
 ```cmd
-   git clone https://github.com/YourUsername/CartAutomation.git
+  git clone https://github.com/Jay999999/Assessment.git
 ```
 
 2. **Open in Eclipse**
