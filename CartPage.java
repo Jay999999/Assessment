@@ -41,7 +41,7 @@ public class CartPage {
 	        actions.moveToElement(btn).click().perform();
 	        System.out.println("Clicked Add to Cart");
 
-	        // ✅ Wait until cart count changes from (0) to (1) — confirms item added
+	        // Wait until cart count changes from (0) to (1) — confirms item added
 	        wait.until(ExpectedConditions.textToBePresentInElementLocated(
 	            cartCountHeader, "(1)"
 	        ));
