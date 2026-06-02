@@ -57,7 +57,14 @@ mvn test
 - Right-click `testng.xml` → **Run As → TestNG Suite**
 
 ### Expected Output
-
+Selected Product: Noir jacket
+On product page: https://sauce-demo.myshopify.com/.../noir-jacket
+Button found: Add to Cart
+Clicked Add to Cart
+Item confirmed added to cart!
+On cart page: https://sauce-demo.myshopify.com/cart
+Product in Cart: Noir jacket - S / Blue
+PASSED: tests.CartTest.verifyCartProductName
 
 ---
 
